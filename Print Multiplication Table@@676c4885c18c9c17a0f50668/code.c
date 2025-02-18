@@ -3,7 +3,7 @@
 int main(){
     int a,b,pro;
     scanf("%d",&a);
-    while(b<=10)
+    while(b<10)
 {
     b++;
     pro=a*b;
