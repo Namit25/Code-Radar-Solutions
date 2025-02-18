@@ -4,6 +4,6 @@ int main(){
     scanf("%d",&a);
     while(a<=5){
         printf("%d",a);
-        a++;
+    
             }
 }
