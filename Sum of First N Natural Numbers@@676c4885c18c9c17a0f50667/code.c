@@ -6,8 +6,11 @@ int main(){
     scanf("%d",&b);
     while(a<=b){
       
-        printf("%d",a);
+     
         a++;
           sum +=a;
+        
             }
+            printf("%d",sum);
+
 }
