@@ -8,7 +8,7 @@ int main(){
     b++;
     pro=a*b;
 
-}
+
 printf("%d x %d = %d",a,b,pro );
-    
+}    
 }
