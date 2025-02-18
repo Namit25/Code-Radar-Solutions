@@ -9,6 +9,6 @@ int main(){
     pro=a*b;
 
 
-printf("%d x %d = %d",a,b,pro );
+printf("%d x %d = %d\n",a,b,pro );
 }    
 }
