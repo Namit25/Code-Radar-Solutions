@@ -7,6 +7,6 @@ if(a%2==0){
     printf("Not Set");
 }
 else{
-    printf("Set")
+    printf("Set");
 }
 }
