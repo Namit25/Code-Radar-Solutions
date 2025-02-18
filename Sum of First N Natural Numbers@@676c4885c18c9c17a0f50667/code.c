@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     int a,b,sum=0;
-    a=1;
+    a=0;
     scanf("%d",&b);
     while(a<=b){
       
